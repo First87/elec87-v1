@@ -64,8 +64,8 @@ export function Navbar() {
       className="fixed top-0 z-50 border-0"
     >
       <div className="container mx-auto flex items-center justify-between">
-        <Typography variant="h6" color={isScrolling ? "blue-gray" : "white"}>
-          Material Tailwind
+        <Typography variant="h3" color={isScrolling ? "blue-gray" : "white"}>
+          Elec 87
         </Typography>
         <ul
           className={`ml-10 hidden items-center gap-6 lg:flex ${
